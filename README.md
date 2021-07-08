@@ -1,4 +1,2 @@
 # MIT43
-Dépôt des MIT43 
-
-Le cul.
+Dépôt des MIT43
